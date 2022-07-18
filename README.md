@@ -20,7 +20,7 @@
 ## Запуск проекта:
 ### Клонировать репозиторий:
 ```bash
-git clone git@github.com:V-pix/homework_bot
+git clone git@github.com:V-pix/homework_bot.git
 
 ```
 ### Перейти в репозиторий в командной строке:
